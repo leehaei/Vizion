@@ -1,0 +1,7 @@
+#Mon Nov 20 19:13:26 EST 2017
+base.0=/Users/Haeim/AndroidStudioProjects/ViZion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_505388cdd6335240939125ef3c915a14a74f6f1d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Haeim/AndroidStudioProjects/ViZion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e8db308e15eb4411bf19ec1756146d30669d7d0a/classes.dex
+base.1=/Users/Haeim/AndroidStudioProjects/ViZion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e8db308e15eb4411bf19ec1756146d30669d7d0a
+file.0=/Users/Haeim/AndroidStudioProjects/ViZion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_505388cdd6335240939125ef3c915a14a74f6f1d/classes.dex
