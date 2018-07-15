@@ -1,0 +1,4 @@
+#Wed Nov 22 16:25:10 EST 2017
+base.0=/Users/Haeim/AndroidStudioProjects/ViZion/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
